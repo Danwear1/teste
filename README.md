@@ -1,2 +1,2 @@
 # Projeto-Instagram-DIO
-Página de login do Instagram para projeto da DIO
+Entrega do projeto da DIO: Página Inicial Instagram:😀
